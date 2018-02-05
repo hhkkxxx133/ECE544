@@ -1,5 +1,5 @@
 # ECE544
-Coursework for ECE544 (Fall 2017)
+Coursework for ECE544 Pattern Recognition (Fall 2017)
 
 
 Including 4 MPs, heavily using Tensorflow
